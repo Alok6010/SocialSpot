@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option_1"
+        android:title="Available" />
+    <item
+        android:id="@+id/option_2"
+        android:title="Busy" />
+    <item
+        android:id="@+id/option_3"
+        android:title="Sleeping" />
+    <item
+        android:id="@+id/option_4"
+        android:title="Only MiLo" />
+
+    <item
+        android:id="@+id/option_5"
+        android:title="Studying" />
+    <item
+        android:id="@+id/option_6"
+        android:title="No Calls Only MiLo" />
+    <item
+        android:id="@+id/option_7"
+        android:title="Travelling" />
+    <item
+        android:id="@+id/option_8"
+        android:title="Chill Life" />
+</menu>

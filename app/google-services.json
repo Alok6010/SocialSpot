@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084333396398",
+    "project_id": "socialspot-616d5",
+    "storage_bucket": "socialspot-616d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084333396398:android:9fddc626cd08dbaa7d383f",
+        "android_client_info": {
+          "package_name": "com.example.socialspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwwpnGkO1SKupAYZiErTwBx90U4022h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_search"
+        android:icon="@drawable/icon_search"
+        android:title="Search"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_chat"
+        android:icon="@drawable/icon_chat"
+        android:title="chat"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/icon_profile"
+        android:title="Profile"
+        app:showAsAction="never"/>
+
+
+    <item android:id="@+id/menu_setting"
+        android:icon="@drawable/icon_setting"
+        android:title="Setting"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menu_Share"
+        android:icon="@drawable/icon_share"
+        android:title="Share"
+        app:showAsAction="withText"/>
+
+    <item android:id="@+id/menu_rateus"
+        android:icon="@drawable/icon_rate"
+        android:title="Rate us"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/icon_logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+</menu>
